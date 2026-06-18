@@ -1,7 +1,7 @@
 import { checkOpenApi } from "./01-chAI.js";
 
 const client = await checkOpenApi();
-const model = "gemini-3.5-flash";
+const model = "gemini-2.5-flash";
 
 const conversations = [];
 
